@@ -153,6 +153,24 @@
         "hungry"
       ],
       "id": "15"
+    },
+    {
+      "name": "MackDizzle",
+      "species": "GiantPimp",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "16"
+    },
+    {
+      "name": "MackDizzle",
+      "species": "GiantPimp",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "17"
     }
   ]
 }
